@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/example/cram_a3/AddNewContactFragment.java" />
+        <ignore path="src/com/example/cram_a3/ContactFragment.java" />
+        <ignore path="src/com/example/cram_a4/AddNewContactFragment.java" />
+        <ignore path="src/com/example/cram_a4/ContactFragment.java" />
+    </issue>
+</lint>
